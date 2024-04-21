@@ -1,3 +1,128 @@
-.container{width: 1291px;
+.container{width: 1296px;
            margin: 0 auto;}
-.img1{display: inline-block;}
+           header{margin-top: 54px;
+                  margin-bottom: 44px;}
+.img1{display: inline-block;
+      vertical-align: middle;
+    margin-right: 60px;}
+a{height: 34px;
+    color: #8D81FF;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 84px ;}
+.thispage{color: #4E6FAE;}
+.box{width: 50px;
+     height: 50px;
+     background: #5012D5;}
+.date{width: 31px;
+    height: 34px;
+    color: #84FF81;
+font-family: Helvetica;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 8px;
+padding-left: 11px;
+padding-right: 8px;
+display: block;
+}   
+.month{width: 119px;
+    height: 34px;
+    color: #8D81FF;
+font-family: "BPG Nino Mkhedruli" sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 18px;
+margin-bottom: 8px;
+display: block;}
+.topic{width: 578px;
+    height: 34px;
+    color: #4E6FAE;
+font-family: "GL Tatishvili Metal" sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: block;
+margin-bottom: 13px;
+}
+.img2{
+      margin-right: 66px;
+      display: inline-block;
+    vertical-align: top ;}
+.p1{width: 778px;
+    height: 353px;
+    color: #4E6FAE;
+font-family: "GL Kirovi";
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-block;
+vertical-align: top;
+margin-bottom: 81px;}
+.p2{width: 778px;
+    height: 280px;
+    color: #4E6FAE;
+    font-family: "GL Kirovi";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    margin-bottom: 155px;
+    vertical-align: top;}
+.p3{color: #4E6FAE;
+    font-family: "GL Kirovi";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 778px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;}
+.line{display: inline-block;
+    width: 2px;
+    height: 48px;
+    background: #5012D5;
+    margin-left: 41px;
+    margin-right: 41px;}
+.f1{margin-top: 143px;}
+/* page2 starts */
+.header2{margin-top: 41px;
+         margin-left: 63px;}
+.container2{width: 1052px;
+            margin: 0 auto;}
+.img4{margin-bottom: 120px;}          
+.line3{width: 2px;
+    height: 24px;
+    background: #5012D5;
+display: inline-block;
+ margin-right: 18px;}  
+.fine1{width: 150px;
+    height: 34px;
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;} 
+.fine2{display: inline-block;
+    width: 484px;
+    height: 34px;
+    color: #4E6FAE;
+font-family: FiraGO;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;}
+.card1-2{}   
